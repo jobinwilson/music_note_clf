@@ -1,2 +1,2 @@
 # music_note_clf
-Classify handwritten music symbol image into one of the 5 classes namely whole note, half note, quarter note, eighth note and sixteenth note. This problem is similar to MNIST classification
+Classify handwritten music symbol image into one of the 5 classes namely whole note, half note, quarter note, eighth note and sixteenth note. This problem is similar to MNIST classification. Data set is available at https://www.kaggle.com/datasets/kishanj/music-notes-datasets/data
